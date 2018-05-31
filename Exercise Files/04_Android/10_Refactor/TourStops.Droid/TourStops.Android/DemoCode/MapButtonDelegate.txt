@@ -1,0 +1,7 @@
+﻿mapButton.Click += delegate
+				{
+					string mapUri = string.Format("geo:0,0?q={0},{1}({2})",currentStop.Latitude,currentStop.Longitude, currentStop.Name);
+					var geoUri = Android.Net.Uri.Parse(mapUri);
+					var mapIntent = new Intent(Intent.ActionView, geoUri);
+					StartActivity(mapIntent);
+				};

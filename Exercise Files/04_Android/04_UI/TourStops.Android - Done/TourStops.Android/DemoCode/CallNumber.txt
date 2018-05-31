@@ -1,0 +1,15 @@
+﻿private void CallNumber(string phoneNumber) {
+			var callDialog = new AlertDialog.Builder(this);
+			callDialog.SetMessage("Call " + phoneNumber);
+
+
+			callDialog.SetPositiveButton("Call", delegate {
+				var callIntent = new Intent(Intent.ActionCall);
+				callIntent.SetData(Android.Net.Uri.Parse("tel:" + phoneNumber));
+				StartActivity(callIntent);
+
+			});
+			//callDialog.SetNeutralButton("Call", delegate { });
+			callDialog.SetNegativeButton("Cancel", delegate { });
+			callDialog.Show();
+}

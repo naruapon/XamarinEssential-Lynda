@@ -1,0 +1,32 @@
+C:\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\06_PortableClassLibTemplate\DesktopConsumer\bin\Debug\DesktopConsumer.exe.config
+C:\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\06_PortableClassLibTemplate\DesktopConsumer\bin\Debug\DesktopConsumer.exe
+C:\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\06_PortableClassLibTemplate\DesktopConsumer\bin\Debug\DesktopConsumer.pdb
+C:\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\06_PortableClassLibTemplate\DesktopConsumer\obj\Debug\DesktopConsumer.csprojResolveAssemblyReference.cache
+C:\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\06_PortableClassLibTemplate\DesktopConsumer\obj\Debug\MainWindow.g.cs
+C:\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\06_PortableClassLibTemplate\DesktopConsumer\obj\Debug\App.g.cs
+C:\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\06_PortableClassLibTemplate\DesktopConsumer\obj\Debug\DesktopConsumer_MarkupCompile.cache
+C:\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\06_PortableClassLibTemplate\DesktopConsumer\obj\Debug\DesktopConsumer_MarkupCompile.lref
+C:\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\06_PortableClassLibTemplate\DesktopConsumer\obj\Debug\MainWindow.baml
+C:\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\06_PortableClassLibTemplate\DesktopConsumer\obj\Debug\DesktopConsumer.g.resources
+C:\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\06_PortableClassLibTemplate\DesktopConsumer\obj\Debug\DesktopConsumer.Properties.Resources.resources
+C:\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\06_PortableClassLibTemplate\DesktopConsumer\obj\Debug\DesktopConsumer.csproj.GenerateResource.Cache
+C:\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\06_PortableClassLibTemplate\DesktopConsumer\obj\Debug\DesktopConsumer.exe
+C:\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\06_PortableClassLibTemplate\DesktopConsumer\obj\Debug\DesktopConsumer.pdb
+C:\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\06_PortableClassLibTemplate\DesktopConsumer\bin\Debug\NameGenPCL.dll
+C:\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\06_PortableClassLibTemplate\DesktopConsumer\bin\Debug\NameGenPCL.pdb
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\07_PortableClassLibTemplate\Start\DesktopConsumer\bin\Debug\DesktopConsumer.exe.config
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\07_PortableClassLibTemplate\Start\DesktopConsumer\bin\Debug\DesktopConsumer.exe
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\07_PortableClassLibTemplate\Start\DesktopConsumer\bin\Debug\DesktopConsumer.pdb
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\07_PortableClassLibTemplate\Start\DesktopConsumer\bin\Debug\NameGenPCL.dll
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\07_PortableClassLibTemplate\Start\DesktopConsumer\bin\Debug\NameGenPCL.pdb
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\07_PortableClassLibTemplate\Start\DesktopConsumer\obj\Debug\DesktopConsumer.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\07_PortableClassLibTemplate\Start\DesktopConsumer\obj\Debug\MainWindow.g.cs
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\07_PortableClassLibTemplate\Start\DesktopConsumer\obj\Debug\App.g.cs
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\07_PortableClassLibTemplate\Start\DesktopConsumer\obj\Debug\DesktopConsumer_MarkupCompile.cache
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\07_PortableClassLibTemplate\Start\DesktopConsumer\obj\Debug\DesktopConsumer_MarkupCompile.lref
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\07_PortableClassLibTemplate\Start\DesktopConsumer\obj\Debug\MainWindow.baml
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\07_PortableClassLibTemplate\Start\DesktopConsumer\obj\Debug\DesktopConsumer.g.resources
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\07_PortableClassLibTemplate\Start\DesktopConsumer\obj\Debug\DesktopConsumer.Properties.Resources.resources
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\07_PortableClassLibTemplate\Start\DesktopConsumer\obj\Debug\DesktopConsumer.csproj.GenerateResource.Cache
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\07_PortableClassLibTemplate\Start\DesktopConsumer\obj\Debug\DesktopConsumer.exe
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\07_PortableClassLibTemplate\Start\DesktopConsumer\obj\Debug\DesktopConsumer.pdb

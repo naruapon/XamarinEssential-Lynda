@@ -1,0 +1,10 @@
+﻿	button1.Click += delegate {
+				CallNumber(button1.Text);
+			};
+
+			Button button2 = FindViewById<Button>(Resource.Id.button2);
+
+
+			button2.Click += delegate {
+				CallNumber(button2.Text);
+			};

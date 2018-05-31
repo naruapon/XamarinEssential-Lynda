@@ -1,0 +1,16 @@
+﻿		partial void CallButton1_TouchUpInside(UIButton sender) {
+			
+			CallNumber("555-1212");
+		}
+
+
+		partial void CallButton3_TouchUpInside(UIButton sender) {
+			CallNumber("555-2424");
+		}
+
+		partial void CalculateButton_TouchUpInside(UIButton sender) {
+
+			double duration = CalculateTourDuration(numberOfStops: 5,
+																								speedRatio: 1.2);
+			DurationMessage.Text = String.Format("{0} minutes", duration);
+		}

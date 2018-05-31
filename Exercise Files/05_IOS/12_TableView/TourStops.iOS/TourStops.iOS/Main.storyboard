@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6211" systemVersion="14A298i" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="BYZ-38-t0r">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6204"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModuleProvider="" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <subviews>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Tailor-made Tour Stops" lineBreakMode="tailTruncation" minimumFontSize="10" id="3" translatesAutoresizingMaskIntoConstraints="NO" textAlignment="center">
+                                <rect key="frame" x="20" y="48" width="42" height="21"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="23"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                                <variation key="heightClass=regular-widthClass=compact">
+                                    <rect key="frame" x="20" y="48" width="280" height="21"/>
+                                    <mask key="constraints">
+                                        <include reference="54"/>
+                                        <include reference="55"/>
+                                    </mask>
+                                </variation>
+                                <constraints>
+                                    <constraint id="54" firstAttribute="width" constant="280"/>
+                                    <constraint id="55" firstAttribute="height" constant="21"/>
+                                </constraints>
+                                <variation key="default">
+                                    <mask key="constraints">
+                                        <exclude reference="54"/>
+                                        <exclude reference="55"/>
+                                    </mask>
+                                </variation>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" lineBreakMode="tailTruncation" minimumFontSize="10" id="83" translatesAutoresizingMaskIntoConstraints="NO" textAlignment="center">
+                                <rect key="frame" x="20" y="147" width="42" height="21"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                                <variation key="heightClass=regular-widthClass=compact">
+                                    <rect key="frame" x="0.0" y="500" width="320" height="21"/>
+                                    <mask key="constraints">
+                                        <include reference="210"/>
+                                        <include reference="211"/>
+                                    </mask>
+                                </variation>
+                                <constraints>
+                                    <constraint id="210" firstAttribute="width" constant="320"/>
+                                    <constraint id="211" firstAttribute="height" constant="21"/>
+                                </constraints>
+                                <variation key="default">
+                                    <mask key="constraints">
+                                        <exclude reference="210"/>
+                                        <exclude reference="211"/>
+                                    </mask>
+                                </variation>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="86" translatesAutoresizingMaskIntoConstraints="NO">
+                                <rect key="frame" x="309" y="142" width="46" height="30"/>
+                                <state key="normal" title="Calculate Tour Duration">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <variation key="heightClass=regular-widthClass=compact">
+                                    <rect key="frame" x="0.0" y="450" width="320" height="30"/>
+                                    <mask key="constraints">
+                                        <include reference="207"/>
+                                    </mask>
+                                </variation>
+                                <connections>
+                                    <action selector="CallButton3_TouchUpInside:" destination="89" id="88" eventType="touchUpInside"/>
+                                    <action selector="CalcButton_TouchUpInside:" destination="BYZ-38-t0r" id="241" eventType="touchUpInside"/>
+                                </connections>
+                                <constraints>
+                                    <constraint id="207" firstAttribute="width" constant="320"/>
+                                </constraints>
+                                <variation key="default">
+                                    <mask key="constraints">
+                                        <exclude reference="207"/>
+                                    </mask>
+                                </variation>
+                            </button>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" lineBreakMode="tailTruncation" minimumFontSize="10" id="121" translatesAutoresizingMaskIntoConstraints="NO">
+                                <rect key="frame" x="10" y="224" width="42" height="21"/>
+                                <color key="backgroundColor" colorSpace="calibratedRGB" red="0.66274509803921566" green="0.83921568627450982" blue="0.96078431372549022" alpha="1"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                                <variation key="heightClass=regular-widthClass=compact">
+                                    <rect key="frame" x="7" y="426" width="320" height="2"/>
+                                    <mask key="constraints">
+                                        <include reference="214"/>
+                                        <include reference="215"/>
+                                    </mask>
+                                </variation>
+                                <rect key="contentStretch" x="0.0" y="0.0" width="1" height="1"/>
+                                <constraints>
+                                    <constraint id="214" firstAttribute="width" constant="320"/>
+                                    <constraint id="215" firstAttribute="height" constant="2"/>
+                                </constraints>
+                                <variation key="default">
+                                    <mask key="constraints">
+                                        <exclude reference="214"/>
+                                        <exclude reference="215"/>
+                                    </mask>
+                                </variation>
+                            </label>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="143" translatesAutoresizingMaskIntoConstraints="NO">
+                                <rect key="frame" x="41" y="-60" width="198" height="211"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <prototypes/>
+                                <variation key="heightClass=regular-widthClass=compact">
+                                    <rect key="frame" x="20" y="99" width="280" height="291"/>
+                                    <mask key="constraints">
+                                        <include reference="193"/>
+                                        <include reference="194"/>
+                                    </mask>
+                                </variation>
+                                <constraints>
+                                    <constraint id="193" firstAttribute="width" constant="280"/>
+                                    <constraint id="194" firstAttribute="height" constant="264"/>
+                                </constraints>
+                                <variation key="default">
+                                    <mask key="constraints">
+                                        <exclude reference="193"/>
+                                        <exclude reference="194"/>
+                                    </mask>
+                                </variation>
+                                <color key="separatorColor" colorSpace="calibratedRGB" red="0.53725490196078429" green="0.93725490196078431" blue="0.67450980392156867" alpha="1"/>
+                            </tableView>
+                        </subviews>
+                        <variation key="default">
+                            <mask key="subviews">
+                                <exclude reference="3"/>
+                                <exclude reference="83"/>
+                                <exclude reference="86"/>
+                                <exclude reference="121"/>
+                                <exclude reference="143"/>
+                            </mask>
+                            <mask key="constraints">
+                                <exclude reference="52"/>
+                                <exclude reference="53"/>
+                                <exclude reference="205"/>
+                                <exclude reference="206"/>
+                                <exclude reference="208"/>
+                                <exclude reference="209"/>
+                                <exclude reference="212"/>
+                                <exclude reference="213"/>
+                                <exclude reference="219"/>
+                                <exclude reference="220"/>
+                            </mask>
+                        </variation>
+                        <variation key="heightClass=regular-widthClass=compact">
+                            <mask key="subviews">
+                                <include reference="3"/>
+                                <include reference="83"/>
+                                <include reference="86"/>
+                                <include reference="121"/>
+                                <include reference="143"/>
+                            </mask>
+                            <mask key="constraints">
+                                <include reference="52"/>
+                                <include reference="53"/>
+                                <include reference="205"/>
+                                <include reference="206"/>
+                                <include reference="208"/>
+                                <include reference="209"/>
+                                <include reference="212"/>
+                                <include reference="213"/>
+                                <include reference="219"/>
+                                <include reference="220"/>
+                            </mask>
+                        </variation>
+                        <constraints>
+                            <constraint id="52" firstItem="8bC-Xf-vdC" firstAttribute="trailing" secondItem="3" secondAttribute="trailing" constant="20"/>
+                            <constraint id="53" firstItem="3" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" constant="48"/>
+                            <constraint id="205" firstItem="8bC-Xf-vdC" firstAttribute="trailing" secondItem="86" secondAttribute="trailing"/>
+                            <constraint id="206" firstItem="8bC-Xf-vdC" firstAttribute="bottom" secondItem="86" secondAttribute="bottom" constant="88"/>
+                            <constraint id="208" firstItem="8bC-Xf-vdC" firstAttribute="trailing" secondItem="83" secondAttribute="trailing"/>
+                            <constraint id="209" firstItem="8bC-Xf-vdC" firstAttribute="bottom" secondItem="83" secondAttribute="bottom" constant="47"/>
+                            <constraint id="212" firstItem="8bC-Xf-vdC" firstAttribute="trailing" secondItem="121" secondAttribute="trailing" constant="-7"/>
+                            <constraint id="213" firstItem="8bC-Xf-vdC" firstAttribute="bottom" secondItem="121" secondAttribute="bottom" constant="140"/>
+                            <constraint id="219" firstItem="8bC-Xf-vdC" firstAttribute="trailing" secondItem="143" secondAttribute="trailing" constant="20"/>
+                            <constraint id="220" firstItem="143" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" constant="99"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="DurationMessage" destination="83" id="name-outlet-83"/>
+                        <outlet property="CalcButton" destination="86" id="name-outlet-86"/>
+                        <outlet property="TableView1" destination="143" id="name-outlet-143"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-11" y="-65"/>
+        </scene>
+    </scenes>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+        <simulatedOrientationMetrics key="orientation"/>
+    </simulatedMetricsContainer>
+    <resources>
+        <image name="DemoCode/UIWireFrameSimple2.png" width="530" height="978"/>
+    </resources>
+</document>

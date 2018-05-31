@@ -1,0 +1,2 @@
+C:\Users\WR\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\07_PortableClassLibTemplate\Start\NameGenPCL\NameGenPCL.csproj;neutral
+C:\Users\WR\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\07_PortableClassLibTemplate\Start\Win10Consumer\Win10Consumer.csproj;x86

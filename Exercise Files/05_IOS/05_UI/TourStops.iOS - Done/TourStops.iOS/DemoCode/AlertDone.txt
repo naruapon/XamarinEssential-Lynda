@@ -1,0 +1,10 @@
+﻿private void AlertDone() {
+			bool wasSuccessful = UIApplication.SharedApplication.OpenUrl(url);
+
+			if (!wasSuccessful)
+			{
+				var alert2 = UIAlertController.Create("Error", "Cannot call that number", UIAlertControllerStyle.Alert);
+				alert2.AddAction(UIAlertAction.Create("Ok", UIAlertActionStyle.Default, null));
+
+			}
+}

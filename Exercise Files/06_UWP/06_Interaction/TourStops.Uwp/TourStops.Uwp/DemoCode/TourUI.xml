@@ -1,0 +1,73 @@
+﻿<Page x:Class="TourStops.Uwp.MainPage"
+			xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+			xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+			xmlns:local="using:TourStops.Uwp"
+			xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+			xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+			mc:Ignorable="d">
+
+	<Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+		<Grid.RowDefinitions>
+			<RowDefinition Height='40*' />
+			<RowDefinition Height='241*' />
+			<RowDefinition Height='359*' />
+		</Grid.RowDefinitions>
+		<TextBlock x:Name='textBlock'
+							 Margin='3'
+							 FontSize='24'
+							 TextWrapping='Wrap'
+							 Text='Tailor-made Tour Stops'
+							 TextAlignment='Center'
+							 VerticalAlignment='Top'
+							 d:LayoutOverrides='Width'
+							 Foreground='#FF096899' />
+		<Grid Grid.Row='1'
+					Margin='7'>
+			<Grid.RowDefinitions>
+				<RowDefinition Height='41*' />
+				<RowDefinition Height='186*' />
+			</Grid.RowDefinitions>
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width='173*' />
+				<ColumnDefinition Width='80*' />
+				<ColumnDefinition Width='93*' />
+			</Grid.ColumnDefinitions>
+			<TextBlock x:Name='textBlock1'
+								 HorizontalAlignment='Left'
+								 TextWrapping='Wrap'
+								 Text='Buckingham Fountain'
+								 VerticalAlignment='Center' />
+			<Button x:Name='MapButton'
+							Content='Map'
+							Grid.Column='2'
+							HorizontalAlignment='Stretch'
+							VerticalAlignment='Stretch'
+							Click='CallButton1_Click'
+							Margin='3' />
+			<Button x:Name='CallButton'
+							Content='555-2424'
+							Grid.Column='1'
+							HorizontalAlignment='Stretch'
+							VerticalAlignment='Stretch'
+							Click='callButton2_Click'
+							Margin='3' />
+		</Grid>
+		<StackPanel HorizontalAlignment='Stretch'
+								Grid.Row='2'
+								VerticalAlignment='Top'>
+			<Button x:Name='CalcButton'
+							Content='Calculate Tour Duration'
+							HorizontalAlignment='Stretch'
+							Grid.Row='2'
+							VerticalAlignment='Top'
+							Click='CalcButton_Click' />
+			<TextBlock x:Name='textBlock3'
+								 Grid.Row='2'
+								 TextWrapping='Wrap'
+								 Text='...'
+								 HorizontalAlignment='Center'
+								 VerticalAlignment='Top'
+								 d:LayoutOverrides='Width' />
+		</StackPanel>
+	</Grid>
+</Page>

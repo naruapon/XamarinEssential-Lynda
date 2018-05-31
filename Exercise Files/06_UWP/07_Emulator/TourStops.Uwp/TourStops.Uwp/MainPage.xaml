@@ -1,0 +1,64 @@
+﻿<Page x:Class="TourStops.Uwp.MainPage"
+			xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+			xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+			xmlns:local="using:TourStops.Uwp"
+			xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+			xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+			mc:Ignorable="d">
+	<Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+		<Grid.RowDefinitions>
+			<RowDefinition Height='40*' />
+			<RowDefinition Height='241*' />
+			<RowDefinition Height='359*' />
+		</Grid.RowDefinitions>
+		<TextBlock x:Name='TitleText'
+							 FontSize='22'
+							 TextWrapping='Wrap'
+							 Text='Tailor-made Tour Stops'
+							 TextAlignment='Center'
+							 VerticalAlignment='Top'
+							 d:LayoutOverrides='Width'
+							 Foreground='#FF1A8CC7' />
+		<Grid Grid.Row="1">
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="2*" />
+				<ColumnDefinition Width="1*" />
+				<ColumnDefinition Width="1*" />
+			</Grid.ColumnDefinitions>
+			<TextBlock Text="Buckingham Fountain"
+								 x:Name="textBlock1" />
+			<Button x:Name="MapButton"
+							Grid.Column="1"
+							Margin="3"
+							Content="Map"
+							VerticalAlignment="Top"
+							HorizontalAlignment="Stretch" 
+							Click="MapButton_Click"
+							/>
+			<Button x:Name="CallButton"
+							Grid.Column="2
+							"
+							Click="CallButton_Click"
+							Margin="3"
+							Content="555-1212"
+							VerticalAlignment="Top"
+							HorizontalAlignment="Stretch" />
+		</Grid>
+		<StackPanel 
+								Grid.Row="2">
+			<Rectangle Fill="LightBlue"
+								 Height="10"
+								 Width="Auto" />
+			<Button x:Name="CalcButton"
+							Content="Calculate Tour Duration"
+							HorizontalAlignment="Stretch"
+							Margin="0,20,0,0
+							"
+							Click="CalcButton_Click" />
+			<TextBlock x:Name="DurationMessage"
+								 Text="..."
+								 HorizontalAlignment="Stretch"
+								 TextAlignment="Center" />
+		</StackPanel>
+	</Grid>
+</Page>

@@ -1,0 +1,2 @@
+﻿var stops = TourLib.TourSource.GetTourStops(5);
+var table = FindViewById<TableLayout>(Resource.Id.tableLayout1);

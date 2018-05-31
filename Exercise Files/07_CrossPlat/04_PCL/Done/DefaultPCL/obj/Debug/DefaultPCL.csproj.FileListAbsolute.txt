@@ -1,0 +1,10 @@
+C:\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\06_PortableClassLibTemplate\DefaultPCL\bin\Debug\DefaultPCL.dll
+C:\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\06_PortableClassLibTemplate\DefaultPCL\bin\Debug\DefaultPCL.pdb
+C:\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\06_PortableClassLibTemplate\DefaultPCL\obj\Debug\DefaultPCL.csprojResolveAssemblyReference.cache
+C:\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\06_PortableClassLibTemplate\DefaultPCL\obj\Debug\DefaultPCL.dll
+C:\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\06_PortableClassLibTemplate\DefaultPCL\obj\Debug\DefaultPCL.pdb
+C:\Users\WR\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\07_PortableClassLibTemplate\Start\DefaultPCL\bin\Debug\DefaultPCL.dll
+C:\Users\WR\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\07_PortableClassLibTemplate\Start\DefaultPCL\bin\Debug\DefaultPCL.pdb
+C:\Users\WR\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\07_PortableClassLibTemplate\Start\DefaultPCL\obj\Debug\DefaultPCL.csprojResolveAssemblyReference.cache
+C:\Users\WR\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\07_PortableClassLibTemplate\Start\DefaultPCL\obj\Debug\DefaultPCL.dll
+C:\Users\WR\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\07_PortableClassLibTemplate\Start\DefaultPCL\obj\Debug\DefaultPCL.pdb

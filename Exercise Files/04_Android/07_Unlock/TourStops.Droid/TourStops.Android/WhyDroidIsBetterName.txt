@@ -1,0 +1,4 @@
+﻿Using a suffix like
+TourStops.Android will cause mysterious compile errors when referencing the Android namespaces. That’s why Xamarin uses the .droid suffix on their project types.
+
+I’ve changed the name of the project for all future versions of this app to use this convention.

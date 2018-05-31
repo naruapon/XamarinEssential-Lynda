@@ -1,0 +1,10 @@
+C:\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\06_PortableClassLibTemplate\NameGenPCL\bin\Debug\NameGenPCL.dll
+C:\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\06_PortableClassLibTemplate\NameGenPCL\bin\Debug\NameGenPCL.pdb
+C:\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\06_PortableClassLibTemplate\NameGenPCL\obj\Debug\NameGenPCL.dll
+C:\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\06_PortableClassLibTemplate\NameGenPCL\obj\Debug\NameGenPCL.pdb
+C:\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\06_PortableClassLibTemplate\NameGenPCL\obj\Debug\NameGenPCL.csprojResolveAssemblyReference.cache
+C:\Users\WR\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\07_PortableClassLibTemplate\Start\NameGenPCL\bin\Debug\NameGenPCL.dll
+C:\Users\WR\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\07_PortableClassLibTemplate\Start\NameGenPCL\bin\Debug\NameGenPCL.pdb
+C:\Users\WR\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\07_PortableClassLibTemplate\Start\NameGenPCL\obj\Debug\NameGenPCL.csprojResolveAssemblyReference.cache
+C:\Users\WR\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\07_PortableClassLibTemplate\Start\NameGenPCL\obj\Debug\NameGenPCL.dll
+C:\Users\WR\Google Drive\Lynda\Walt - Shared\Docs\VS2015-ProjectTypes\Exercise Files\07_PortableClassLibTemplate\Start\NameGenPCL\obj\Debug\NameGenPCL.pdb
